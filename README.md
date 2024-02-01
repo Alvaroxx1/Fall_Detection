@@ -9,7 +9,7 @@ You can try using yolov8s.pt, yolov8m.pt, etc.
 ### Dataset
 Roboflow: https://app.roboflow.com/alvaro-ww9xp/humanfallv2/5
 
-Download video files from: https://mega.nz/folder/3IxXjaYZ#lB77nkzrR33ueiEcUh7dMQ
+Download test video files from: https://mega.nz/folder/3IxXjaYZ#lB77nkzrR33ueiEcUh7dMQ
 
 ---
 
@@ -25,3 +25,9 @@ Notion: https://www.notion.so/Fall-Detection-6e6c5a9048df41d1a5ac4d8de5069c2e?pv
 * Provide a complex model to train 
 * Improve performance of the model (precision & recall)
 * Implemnet a notification system
+
+---
+
+### Live Demo
+
+![Alt text](fall.gif)
