@@ -1,6 +1,6 @@
 # Fall Detection
 
-The models perform better and the training process is faster using the pretrained model yolov8n.pt for pose stimation.
+The models perform better and the training process is faster using the pretrained model yolov8n.pt for pose estimation.
 You can try using yolov8s.pt, yolov8m.pt, etc.
 
 
